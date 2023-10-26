@@ -1,4 +1,9 @@
+this is personal finance application
 # Getting Started with Create React App
+![Screenshot (297)](https://github.com/SH12517/personal-finance/assets/119481395/737d47f0-ae31-4a1a-9b0f-626e6db8691d)
+
+![Screenshot (298)](https://github.com/SH12517/personal-finance/assets/119481395/ff91914b-0510-4d4f-bc46-d03160fa84dd)
+![Screenshot (299)](https://github.com/SH12517/personal-finance/assets/119481395/13ba3fe7-3b11-4b63-aae0-83fbc0c2fc4f)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
